@@ -1,0 +1,8 @@
+<RCC>
+  <qresource prefix="logi">
+    <file>logo.png</file>
+  </qresource>
+  <qresource prefix="border">
+    <file>border.jpg</file>
+  </qresource>
+</RCC>
